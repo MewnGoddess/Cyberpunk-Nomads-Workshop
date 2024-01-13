@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Cyberpunk Nomads' Workshop</name>
+  <author>ParaNautic, Taranchuk, Mewn Goddess</author>
+  <packageId>ParaNautic.CyberpunkNomadsWorkshop</packageId>
+  <description>This mod adds 4 vehicles from Cyberpunk 2077: Shion 'Coyote', Type-66 'Javelina', Colby 'Little Mule' and Quartz 'Sidewinder'. All cars are equipped with an 'Arasaka David IIIC' turret and require a new research project to be completed in order to be constructed.
+  
+The mod was commissioned by ParaNautic via the RimWorld Mod Market Discord server.</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+    <modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>SmashPhil.VehicleFramework</packageId>
+			<displayName>Vehicle Framework</displayName>
+			<downloadUrl>https://github.com/SmashPhil/Vehicles/releases/latest</downloadUrl>
+			<steamWorkshopUrl/>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaVehiclesExpanded</packageId>
+			<displayName>Vanilla Vehicles Expanded</displayName>
+			<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3014906877</downloadUrl>
+			<steamWorkshopUrl/>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>brrainz.harmony</li>
+		<li>SmashPhil.VehicleFramework</li>
+		<li>OskarPotocki.VanillaVehiclesExpanded</li>
+	</loadAfter>
+</ModMetaData>

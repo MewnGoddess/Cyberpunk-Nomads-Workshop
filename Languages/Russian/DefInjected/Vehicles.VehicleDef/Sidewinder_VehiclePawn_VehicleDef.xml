@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Sidewinder -->
+  <CNW_Sidewinder.label>«Сайдвиндер»</CNW_Sidewinder.label>
+  <!-- EN: Just about any nomad you’d find roaming North America would vouch for the Quartz’s reliability and surprisingly solid performance in desert conditions. Unlike the vehicle itself, nomads toss the corporate branding to the side and instead refer to this Archer model as 'Sidewinder'. Of course, the name isn’t the only piece the wasteland-dwellers have chosen to modify. With swapped wheels, bumpers, and a performance-boosted engine, Sidewinders adeptly navigate off-road terrain and don’t go down easy. -->
+  <CNW_Sidewinder.description>Практически любой кочевник, которого можно встретить в Северной Америке, заверит вас в надёжности Арчер Кварц и его удивительно хорошей способности к передвижению в условиях пустыни. Кочевники дали этой модели прозвище «Сайдвиндер». Конечно же, название — не единственная вещь, которую они решили модифицировать. Оснащённая подходящими колёсами, бамперами и двигателем с повышенной эффективностью, эта машина отлично подходит для езды по бездорожью.</CNW_Sidewinder.description>
+
+  <!-- EN: Driver -->
+  <CNW_Sidewinder.properties.roles.0.label>Водитель</CNW_Sidewinder.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <CNW_Sidewinder.properties.roles.1.label>Пассажир</CNW_Sidewinder.properties.roles.1.label>
+  <!-- EN: Engine -->
+  <CNW_Sidewinder.components.0.label>Двигатель</CNW_Sidewinder.components.0.label>
+  <!-- EN: Front Left Wheel -->
+  <CNW_Sidewinder.components.1.label>Переднее левое колесо</CNW_Sidewinder.components.1.label>
+  <!-- EN: Front Right Wheel -->
+  <CNW_Sidewinder.components.2.label>Переднее правое колесо</CNW_Sidewinder.components.2.label>
+  <!-- EN: Back Left Wheel -->
+  <CNW_Sidewinder.components.3.label>Заднее левое колесо</CNW_Sidewinder.components.3.label>
+  <!-- EN: Back Right Wheel -->
+  <CNW_Sidewinder.components.4.label>Заднее правое колесо</CNW_Sidewinder.components.4.label>
+  <!-- EN: Front Left Suspension -->
+  <CNW_Sidewinder.components.5.label>Передняя левая подвеска</CNW_Sidewinder.components.5.label>
+  <!-- EN: Front Right Suspension -->
+  <CNW_Sidewinder.components.6.label>Передняя правая подвеска</CNW_Sidewinder.components.6.label>
+  <!-- EN: Back Left Suspension -->
+  <CNW_Sidewinder.components.7.label>Задняя левая подвеска</CNW_Sidewinder.components.7.label>
+  <!-- EN: Back Right Suspension -->
+  <CNW_Sidewinder.components.8.label>Задняя правая подвеска</CNW_Sidewinder.components.8.label>
+  <!-- EN: Gearbox -->
+  <CNW_Sidewinder.components.9.label>Коробка передач</CNW_Sidewinder.components.9.label>
+  <!-- EN: Left Side Panel -->
+  <CNW_Sidewinder.components.10.label>Левая боковая панель</CNW_Sidewinder.components.10.label>
+  <!-- EN: Right Side Panel -->
+  <CNW_Sidewinder.components.11.label>Правая боковая панель</CNW_Sidewinder.components.11.label>
+  <!-- EN: Chemtank -->
+  <CNW_Sidewinder.components.12.label>Химтопливный бак</CNW_Sidewinder.components.12.label>
+  <!-- EN: Front Bumper -->
+  <CNW_Sidewinder.components.13.label>Передний бампер</CNW_Sidewinder.components.13.label>
+  <!-- EN: Rear Bumper -->
+  <CNW_Sidewinder.components.14.label>Задний бампер</CNW_Sidewinder.components.14.label>
+  <!-- EN: Upholstery -->
+  <CNW_Sidewinder.components.15.label>Обивка</CNW_Sidewinder.components.15.label>
+  <!-- EN: Dashboard -->
+  <CNW_Sidewinder.components.16.label>Приборная панель</CNW_Sidewinder.components.16.label>
+  <!-- EN: Steering Wheel -->
+  <CNW_Sidewinder.components.17.label>Руль</CNW_Sidewinder.components.17.label>
+  <!-- EN: Alternator -->
+  <CNW_Sidewinder.components.18.label>Генератор переменного тока</CNW_Sidewinder.components.18.label>
+  <!-- EN: Hood -->
+  <CNW_Sidewinder.components.19.label>Капот</CNW_Sidewinder.components.19.label>
+  <!-- EN: Roof -->
+  <CNW_Sidewinder.components.20.label>Крыша</CNW_Sidewinder.components.20.label>
+  
+  <!-- EN: Arasaka David IIIC -->
+  <CNW_Sidewinder.comps.3.turrets.0.gizmoLabel>Турель</CNW_Sidewinder.comps.3.turrets.0.gizmoLabel>
+</LanguageData>

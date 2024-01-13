@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Little Mule -->
+  <CNW_LittleMule.label>«Мул»</CNW_LittleMule.label>
+  <!-- EN: Nomads, as the name suggests, don’t linger too long in any one place. They’re constantly on the move and that means bringing their belongings with them. It comes as no wonder the truck-bed variant of the Colby has become so popular with them. Little Mule — that’s what they call this Thorton Colby model. But beyond the name, they also swap out the standard engines for stronger ones, add light armor to the body and install an environment projection system based on CrystalDome tech in the cabin. -->
+  <CNW_LittleMule.description>Кочевники не сидят подолгу на одном месте — они постоянно перемещаются и потому вынуждены возить с собой всё своё имущество. Поэтому неудивительно, что им так полюбилась модель Тортон Колби с грузовым кузовом, которую они прозвали «Мул». Помимо названия, они модифицируют и саму машину, устанавливая более мощный двигатель, дополнительно укрепляя корпус лёгкой бронёй и устанавливая в салоне систему проекции окружения, основанную на технологии «Хрустальный купол».</CNW_LittleMule.description>
+
+  <!-- EN: Driver -->
+  <CNW_LittleMule.properties.roles.0.label>Водитель</CNW_LittleMule.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <CNW_LittleMule.properties.roles.1.label>Пассажир</CNW_LittleMule.properties.roles.1.label>
+  <!-- EN: Engine -->
+  <CNW_LittleMule.components.0.label>Двигатель</CNW_LittleMule.components.0.label>
+  <!-- EN: Front Left Wheel -->
+  <CNW_LittleMule.components.1.label>Переднее левое колесо</CNW_LittleMule.components.1.label>
+  <!-- EN: Front Right Wheel -->
+  <CNW_LittleMule.components.2.label>Переднее правое колесо</CNW_LittleMule.components.2.label>
+  <!-- EN: Back Left Wheel -->
+  <CNW_LittleMule.components.3.label>Заднее левое колесо</CNW_LittleMule.components.3.label>
+  <!-- EN: Back Right Wheel -->
+  <CNW_LittleMule.components.4.label>Заднее правое колесо</CNW_LittleMule.components.4.label>
+  <!-- EN: Front Left Suspension -->
+  <CNW_LittleMule.components.5.label>Передняя левая подвеска</CNW_LittleMule.components.5.label>
+  <!-- EN: Front Right Suspension -->
+  <CNW_LittleMule.components.6.label>Передняя правая подвеска</CNW_LittleMule.components.6.label>
+  <!-- EN: Back Left Suspension -->
+  <CNW_LittleMule.components.7.label>Задняя левая подвеска</CNW_LittleMule.components.7.label>
+  <!-- EN: Back Right Suspension -->
+  <CNW_LittleMule.components.8.label>Задняя правая подвеска</CNW_LittleMule.components.8.label>
+  <!-- EN: Gearbox -->
+  <CNW_LittleMule.components.9.label>Коробка передач</CNW_LittleMule.components.9.label>
+  <!-- EN: Left Side Panel -->
+  <CNW_LittleMule.components.10.label>Левая боковая панель</CNW_LittleMule.components.10.label>
+  <!-- EN: Right Side Panel -->
+  <CNW_LittleMule.components.11.label>Правая боковая панель</CNW_LittleMule.components.11.label>
+  <!-- EN: Chemtank -->
+  <CNW_LittleMule.components.12.label>Химтопливный бак</CNW_LittleMule.components.12.label>
+  <!-- EN: Front Bumper -->
+  <CNW_LittleMule.components.13.label>Передний бампер</CNW_LittleMule.components.13.label>
+  <!-- EN: Rear Bumper -->
+  <CNW_LittleMule.components.14.label>Задний бампер</CNW_LittleMule.components.14.label>
+  <!-- EN: Upholstery -->
+  <CNW_LittleMule.components.15.label>Обивка</CNW_LittleMule.components.15.label>
+  <!-- EN: Dashboard -->
+  <CNW_LittleMule.components.16.label>Приборная панель</CNW_LittleMule.components.16.label>
+  <!-- EN: Steering Wheel -->
+  <CNW_LittleMule.components.17.label>Руль</CNW_LittleMule.components.17.label>
+  <!-- EN: Alternator -->
+  <CNW_LittleMule.components.18.label>Генератор переменного тока</CNW_LittleMule.components.18.label>
+  <!-- EN: Hood -->
+  <CNW_LittleMule.components.19.label>Капот</CNW_LittleMule.components.19.label>
+  <!-- EN: Roof -->
+  <CNW_LittleMule.components.20.label>Крыша</CNW_LittleMule.components.20.label>
+  
+  <!-- EN: Arasaka David IIIC -->
+  <CNW_LittleMule.comps.3.turrets.0.gizmoLabel>Турель</CNW_LittleMule.comps.3.turrets.0.gizmoLabel>
+</LanguageData>

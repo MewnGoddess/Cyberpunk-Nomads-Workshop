@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<Vehicles.VehicleBuildDef ParentName="VehicleBaseBuildable">
+		<defName>CNW_Javelina_Blueprint</defName>
+		<label>Javelina</label>
+		<description>Although the Quadra Type-66 was designed with city streets in mind, you can still find them out cruising the desert wastes. These modified models, called Javelinas, are equipped with light armor plating and expertly tuned engines. And thanks to the CrystalDome technology, the driver can remain unseen while still maintaining a full, unobstructed view of their surroundings.</description>
+		
+		<graphicData>
+			<texPath>Javelina/Javelina</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(2.7, 4.7)</drawSize>
+		</graphicData>
+		
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>17000</WorkToBuild>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		
+		<researchPrerequisites>
+			<li>CNW_NomadsCars</li>
+		</researchPrerequisites>
+		
+		<size>(2, 4)</size>
+		
+		<costList>
+			<VVE_EngineBlock>1</VVE_EngineBlock>
+			<VVE_CarAlternator>1</VVE_CarAlternator>
+			<VVE_CarExhaust>2</VVE_CarExhaust>
+			<VVE_CarSuspension>4</VVE_CarSuspension>
+			<VVE_CarWheel>4</VVE_CarWheel>
+			<Steel>60</Steel>
+			<ComponentIndustrial>15</ComponentIndustrial>
+			<ComponentSpacer>1</ComponentSpacer>
+			<VVE_CarTransmission>2</VVE_CarTransmission>
+			<VVE_CarRadiator>2</VVE_CarRadiator>
+			<VVE_CarWiring>1</VVE_CarWiring>
+			<VVE_CarBattery>1</VVE_CarBattery>
+		</costList>
+		
+		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+		
+		<thingToSpawn>CNW_Javelina</thingToSpawn>
+	</Vehicles.VehicleBuildDef>
+</Defs>

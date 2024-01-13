@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+  
+	<Vehicles.VehicleTurretDef ParentName="VehicleTurretBase">
+		<defName>CNW_MainTurret</defName>
+		<label>Arasaka David IIIC</label>
+		<description>The David IIIC is a standard issue small turret capable of firing medium-caliber steel rounds over a decent distance. It can also fire at close targets. This exact turret was modified by nomads and usually mounted on their vehicles. Uses steel as its ammunition. Doesn't require a gunner to operate.</description>
+		<matchParentColor>false</matchParentColor>
+		<projectile>Bullet_Minigun</projectile>
+		<reloadTimer>6.6</reloadTimer>
+		<warmUpTimer>1.6</warmUpTimer>
+		
+		<chargePerAmmoCount>0.25</chargePerAmmoCount>
+		
+		<magazineCapacity>75</magazineCapacity>
+		<genericAmmo>true</genericAmmo>
+		
+		<shotSound>Shot_Minigun</shotSound>
+		
+		<hitFlags>IntendedTarget</hitFlags>
+		
+		<autoSnapTargeting>false</autoSnapTargeting>
+		<rotationSpeed>2</rotationSpeed>
+		
+		<projectileOffset>2.1</projectileOffset>
+		<projectileShifting>
+			<li>0.2</li>
+			<li>-0.2</li>
+		</projectileShifting>
+		
+		<maxRange>30.9</maxRange>
+		
+		<recoil>
+			<distanceTotal>0.15</distanceTotal>
+			<distancePerTick>0.05</distancePerTick>
+			<speedMultiplierPostRecoil>0.1</speedMultiplierPostRecoil>
+		</recoil>
+		
+		<attachProjectileFlag>VVE_Tank</attachProjectileFlag>
+		
+		<fireModes>
+			<li>
+				<shotsPerBurst>6</shotsPerBurst>
+				<ticksBetweenShots>5</ticksBetweenShots>
+				<ticksBetweenBursts>60</ticksBetweenBursts>
+				<label>Burst</label>
+				<texPath>UI/Gizmos/FireRate_Burst</texPath>
+			</li>
+		</fireModes>
+
+		<graphicData>
+			<texPath>cyberpunk_turret</texPath>
+			<graphicClass>Vehicles.Graphic_Turret</graphicClass>
+			<shaderType>CutoutComplexPattern</shaderType>
+			<drawSize>(1.2, 1.2)</drawSize>
+		</graphicData>
+		
+		<ammunition>
+			<thingDefs>
+				<li>Steel</li>
+			</thingDefs>
+		</ammunition>
+	</Vehicles.VehicleTurretDef>
+</Defs>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Javelina -->
+  <CNW_Javelina.label>«Хавелина»</CNW_Javelina.label>
+  <!-- EN: Although the Quadra Type-66 was designed with city streets in mind, you can still find them out cruising the desert wastes. These modified models, called Javelinas, are equipped with light armor plating and expertly tuned engines. And thanks to the CrystalDome technology, the driver can remain unseen while still maintaining a full, unobstructed view of their surroundings. -->
+  <CNW_Javelina.description>«Хавелина» — модифицированная кочевниками машина с лёгкой бронёй и усовершенствованным двигателем. Несмотря на то, что изначально Квадра Тайп-66 была разработана для городских улиц, благодаря данным модификациям она также прекрасно показывает себя и в пустыне.</CNW_Javelina.description>
+
+  <!-- EN: Driver -->
+  <CNW_Javelina.properties.roles.0.label>Водитель</CNW_Javelina.properties.roles.0.label>
+  <!-- EN: Passenger -->
+  <CNW_Javelina.properties.roles.1.label>Пассажир</CNW_Javelina.properties.roles.1.label>
+  <!-- EN: Engine -->
+  <CNW_Javelina.components.0.label>Двигатель</CNW_Javelina.components.0.label>
+  <!-- EN: Front Left Wheel -->
+  <CNW_Javelina.components.1.label>Переднее левое колесо</CNW_Javelina.components.1.label>
+  <!-- EN: Front Right Wheel -->
+  <CNW_Javelina.components.2.label>Переднее правое колесо</CNW_Javelina.components.2.label>
+  <!-- EN: Back Left Wheel -->
+  <CNW_Javelina.components.3.label>Заднее левое колесо</CNW_Javelina.components.3.label>
+  <!-- EN: Back Right Wheel -->
+  <CNW_Javelina.components.4.label>Заднее правое колесо</CNW_Javelina.components.4.label>
+  <!-- EN: Front Left Suspension -->
+  <CNW_Javelina.components.5.label>Передняя левая подвеска</CNW_Javelina.components.5.label>
+  <!-- EN: Front Right Suspension -->
+  <CNW_Javelina.components.6.label>Передняя правая подвеска</CNW_Javelina.components.6.label>
+  <!-- EN: Back Left Suspension -->
+  <CNW_Javelina.components.7.label>Задняя левая подвеска</CNW_Javelina.components.7.label>
+  <!-- EN: Back Right Suspension -->
+  <CNW_Javelina.components.8.label>Задняя правая подвеска</CNW_Javelina.components.8.label>
+  <!-- EN: Gearbox -->
+  <CNW_Javelina.components.9.label>Коробка передач</CNW_Javelina.components.9.label>
+  <!-- EN: Left Side Panel -->
+  <CNW_Javelina.components.10.label>Левая боковая панель</CNW_Javelina.components.10.label>
+  <!-- EN: Right Side Panel -->
+  <CNW_Javelina.components.11.label>Правая боковая панель</CNW_Javelina.components.11.label>
+  <!-- EN: Chemtank -->
+  <CNW_Javelina.components.12.label>Химтопливный бак</CNW_Javelina.components.12.label>
+  <!-- EN: Front Bumper -->
+  <CNW_Javelina.components.13.label>Передний бампер</CNW_Javelina.components.13.label>
+  <!-- EN: Rear Bumper -->
+  <CNW_Javelina.components.14.label>Задний бампер</CNW_Javelina.components.14.label>
+  <!-- EN: Upholstery -->
+  <CNW_Javelina.components.15.label>Обивка</CNW_Javelina.components.15.label>
+  <!-- EN: Dashboard -->
+  <CNW_Javelina.components.16.label>Приборная панель</CNW_Javelina.components.16.label>
+  <!-- EN: Steering Wheel -->
+  <CNW_Javelina.components.17.label>Руль</CNW_Javelina.components.17.label>
+  <!-- EN: Alternator -->
+  <CNW_Javelina.components.18.label>Генератор переменного тока</CNW_Javelina.components.18.label>
+  <!-- EN: Hood -->
+  <CNW_Javelina.components.19.label>Капот</CNW_Javelina.components.19.label>
+  <!-- EN: Roof -->
+  <CNW_Javelina.components.20.label>Крыша</CNW_Javelina.components.20.label>
+  
+  <!-- EN: Arasaka David IIIC -->
+  <CNW_Javelina.comps.3.turrets.0.gizmoLabel>Турель</CNW_Javelina.comps.3.turrets.0.gizmoLabel>
+</LanguageData>

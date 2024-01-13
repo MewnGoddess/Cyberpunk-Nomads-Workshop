@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Select Target.\n\nFire for effect -->
+  <CNW_MainTurret.gizmoDescription>Выбрать цель.\n\nВыстрелить.</CNW_MainTurret.gizmoDescription>
+  <!-- EN: Arasaka David IIIC -->
+  <CNW_MainTurret.label>Арасака Дэвид IIIC</CNW_MainTurret.label>
+  <!-- EN: The David IIIC is a standard issue small turret capable of firing medium-caliber steel rounds over a decent distance. It can also fire at close targets. This exact turret was modified by nomads and usually mounted on their vehicles. Uses steel as its ammunition. Doesn't require a gunner to operate. -->
+  <CNW_MainTurret.description>Небольшая турель, стреляющая стальными снарядами среднего калибра на значительное расстояние. Она также может вести огонь и по близким целям. Эта конкретная турель была модифицирована кочевниками и обычно устанавливается на их транспортные средства. В качестве боеприпасов использует сталь. Для её работы не требуется стрелок.</CNW_MainTurret.description>
+  <!-- EN: Burst -->
+  <CNW_MainTurret.fireModes.0.label>стрельба очередями</CNW_MainTurret.fireModes.0.label>
+</LanguageData>
